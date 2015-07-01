@@ -1,3 +1,5 @@
+![Stun](https://cloud.githubusercontent.com/assets/8536299/8458142/a5b4dafe-2015-11e5-998b-702f28a60eaf.png)
+
 Stun Gun
 =======
 
